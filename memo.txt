@@ -1,0 +1,12 @@
+ディレクトリ作成
+python3 -m venv .venv
+
+仮想環境起動
+.venv\Scripts\activate.bat
+
+プレフィックスのエラーが出ているときに試すこと
+・pip install --upgrade streamlit
+・python の実行環境を最新のものにする
+
+git 
+https://github.com/fukashin/streamlittest.git
